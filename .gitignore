@@ -552,10 +552,12 @@ InitTestScene*.unity
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode,unity,rider
 
 
-/Builds
 /Assets/EMX
-/IgnoreFolder
+/Assets/EMX.meta
 /Assets/Plugins
+/Assets/Plugins.meta
+/Builds
+/IgnoreFolder
 
 
 
